@@ -2,7 +2,7 @@
 <img src="./assets/cover.gif" alt="Cover">
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Fullstack+developer+✍️;⛓️+Blockchain+Enthusiast"alt="Currently Learning Solidity">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Fullstack Web+developer;Blockchain+Developer"alt="Currently Learning Solidity">
 </p>
 </div>
 
@@ -118,6 +118,13 @@ contract Profile {
 </div>
 
 <br />
+
+## 🕹️ Projects
+
+1. [Blockchain IoT For Freshfood](https://github.com/doankhietthanh/freshfood-fe)
+
+- Demo: https://freshfood-fe.vercel.app
+- Network: Sepolia Testnest
 
 ## 💬 Connect with me
 
